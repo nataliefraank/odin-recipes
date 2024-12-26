@@ -1,5 +1,5 @@
 # Odin Recipes
-Welcome to Odin Recioes! 🍽️ An artfully designed and user-friendly website that showcases a collection of recipes from the Studio Ghibli film, Ponyo (崖の上のポニョ) using HTML and CSS. This project aims to inspire creativity by providing easy access to a wide variety of recipes, catering to different skill levels and dietary preferences.
+Welcome to Odin Recipes! 🍽️ An artfully designed and user-friendly website that showcases a collection of recipes from the Studio Ghibli film, Ponyo (崖の上のポニョ) using HTML and CSS. This project aims to inspire creativity by providing easy access to a wide variety of recipes, catering to different skill levels and dietary preferences.
 
 ## Features
 **Responsive Design:** Optimized for both desktop and mobile devices, ensuring a seamless browsing experience.
