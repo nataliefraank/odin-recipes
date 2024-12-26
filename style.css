@@ -1,0 +1,94 @@
+@import url('https://fonts.cdnfonts.com/css/norse');
+
+body {
+    background-color: #a3dbf3;
+}
+
+.head {
+    font-family: 'Norse', sans-serif;
+    text-decoration: none;
+    color: #416a7b;
+    font-size: 70px;
+}
+
+.head:hover {
+    color: #71944e;
+    font-size: 72px;
+}
+
+h1 {
+    font-family: 'Norse', sans-serif;
+    color: #173440;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Norse', sans-serif;
+    color: #2b4f5e;
+    font-size: 30px;
+    padding-left: 15px;
+}
+
+.navBar {
+    align-items: center;
+    text-align: center;
+    padding-top: 30px; 
+    padding-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 1rem #55a6c8);
+}
+
+li, p, a {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 15px;
+}
+
+a:hover {
+    color: #71944e;
+}
+
+.button {
+    background-color: #ede358;
+    border-radius: 10px;
+    border-color: #c7be43;
+    border-radius: 12px;
+    color: rgb(39, 39, 39);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Norse', sans-serif;
+    font-size: 30px;
+    margin: 10px 5%;
+    filter: drop-shadow(0 0 0.75rem #458dac);
+}
+
+.button:hover {
+    background-color: #e8dd43;
+    height: auto;
+    width: auto;
+    background: linear-gradient(-45deg, #e8dd43 40%, #f7f099 50%, #e8dd43 60%);
+    background-size: 300%;
+    background-position-x: 100%;
+    animation: shimmer 2s 3 linear;
+}
+
+@keyframes shimmer {
+    to {
+       background-position-x: 0%
+    }
+}
+
+.links {
+    padding-top: 50px; 
+    padding-bottom: 50px; 
+    text-align: center;
+}
