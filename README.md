@@ -14,13 +14,13 @@ Welcome to Odin Recipes! 🍽️ An artfully designed and user-friendly website 
 ## Getting Started
 **To get a local copy up and running for development and testing purposes, follow these steps:**
 1. Clone the repository:
-   ``` git clone https://github.com/nataliefraank/odin-recipes.git ```
+   ``` git clone https://github.com/nataliefraank/odinrecipes.git ```
 2. Navigate to the project directory:
    ``` cd odin-recipes ```
 3. Open ```index.html``` in your preferred code editor to view the site.
 
 **To check out the website:**
-Go to https://nataliefraank.github.io/odin-recipes/.
+Go to https://nataliefraank.github.io/odinrecipes/.
 
 ## Licensing
 Studio Ghibli has released a collection of images from _Ponyo_ with the request that they be used 'freely, within the scope of common sense.' These images are utilized solely for non-commercial purposes and are not intended for advertising, making them permissible for use in accordance with the studio's guidelines.
